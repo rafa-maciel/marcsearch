@@ -1,0 +1,41 @@
+## Criar Marcenaria 
+
+{
+    "nome": "Marcenaria da Feh",
+    "contato": {
+        "numeroCelular": "011 9999-9999",
+        "numeroTelefone": "011 2556-2222",
+        "email": "mariamarcenaria@gmail.com"
+    },
+    "endereco": {
+        "cep": "08473-410",
+        "logradouro": "Rua Dr Outra Coisa",
+        "numero": 301,
+        "complemento": "Casa B",
+        "cidade": "São Paulo",
+        "bairro": "Itaquera",
+        "estado": "SP"
+    },
+    "descricao": "Marcenaria TOPZERA de Guaianais, Melhor do que a do ZÈ, Whatsapp: 11 99849-00393"
+}
+
+## Encontrar marcenarias por bairro (retorno)
+{
+    "id": 2,	
+    "nome": "Marcenaria da Feh",
+    "contato": {
+        "numeroCelular": "011 9999-9999",
+        "numeroTelefone": "011 2556-2222",
+        "email": "mariamarcenaria@gmail.com"
+    },
+    "endereco": {
+        "cep": "08473-410",
+        "logradouro": "Rua Dr Outra Coisa",
+        "numero": 301,
+        "complemento": "Casa B",
+        "cidade": "São Paulo",
+        "bairro": "Itaquera",
+        "estado": "SP"
+    },
+    "descricao": "Marcenaria TOPZERA de Guaianais, Melhor do que a do ZÈ, Whatsapp: 11 99849-00393"
+}
